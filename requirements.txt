@@ -1,5 +1,0 @@
-python-telegram-bot==20.4
-pandas
-requests
-ta
-numpy
